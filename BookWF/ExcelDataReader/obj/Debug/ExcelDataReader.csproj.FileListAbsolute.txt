@@ -1,0 +1,26 @@
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\bin\Debug\ExcelDataReader.exe.config
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\bin\Debug\ExcelDataReader.exe
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\bin\Debug\ExcelDataReader.pdb
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\bin\Debug\Excel.dll
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\bin\Debug\Excel.pdb
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.Form1.resources
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.Properties.Resources.resources
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.csproj.GenerateResource.Cache
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.exe
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.pdb
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.csprojResolveAssemblyReference.cache
+C:\Users\Антон Корольков\Desktop\BookWF\ExcelDataReader\bin\Debug\DocX.dll
+D:\Фриланс\BookWF\ExcelDataReader\bin\Debug\ExcelDataReader.exe.config
+D:\Фриланс\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.exe
+D:\Фриланс\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.pdb
+D:\Фриланс\BookWF\ExcelDataReader\bin\Debug\ExcelDataReader.exe
+D:\Фриланс\BookWF\ExcelDataReader\bin\Debug\ExcelDataReader.pdb
+D:\Фриланс\BookWF\ExcelDataReader\bin\Debug\DocX.dll
+D:\Фриланс\BookWF\ExcelDataReader\bin\Debug\Excel.dll
+D:\Фриланс\BookWF\ExcelDataReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Фриланс\BookWF\ExcelDataReader\bin\Debug\Excel.pdb
+D:\Фриланс\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.csprojResolveAssemblyReference.cache
+D:\Фриланс\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.Form1.resources
+D:\Фриланс\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.Properties.Resources.resources
+D:\Фриланс\BookWF\ExcelDataReader\obj\Debug\ExcelDataReader.csproj.GenerateResource.Cache
